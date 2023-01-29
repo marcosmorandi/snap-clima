@@ -3,4 +3,4 @@ Aplicação que busca informações do usuário em tempo real e mostra informaç
 
 https://marcosmorandi.github.io/snap-clima/
 
-[print]
+<p align="center"> <img src="assets/print.png"> </p>
