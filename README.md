@@ -1,7 +1,9 @@
 # snap-clima
 
 # Descrição do projeto
-Aplicação que busca localização do usuário em tempo real e mostra informações sobre o clima. Responsiva, funciona bem em qualquer resolução de smartphone, tablet ou PC.
+Aplicação que busca localização do usuário em tempo real e mostra informações sobre o clima. 
+
+Responsiva, funciona bem em qualquer resolução de smartphone, tablet ou PC.
 
 # Captura de tela
 <p align="center"> <img src="assets/print.png"> </p>
